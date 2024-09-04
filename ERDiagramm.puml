@@ -90,21 +90,21 @@ entity Idea {
 }
 
 ' Define relationships between entities
-User ||--o{ Project : "creates"
-User ||--o{ Project : "joins"
-User ||--o{ BrainstormSession : "participates in"
-User ||--o{ Notification : "receives"
-User ||--o{ Invitation : "sends/receives"
-User ||--o{ ProjectImage : "uploads"
-User ||--o{ Settings : "has"
-User ||--o{ Idea : "creates"
+User --> Project : "creates"
+User --> Project : "joins"
+User --> BrainstormSession : "participates in"
+User --> Notification : "receives"
+User --> Invitation : "sends/receives"
+User --> ProjectImage : "uploads"
+User --> Settings : "has"
+User --> Idea : "creates"
 
-Project ||--o{ ProjectImage : "has"
-Project ||--o{ Invitation : "has"
-Project ||--o{ BrainstormSession : "can have"
-Project ||--o{ Filter : "can have"
-Project ||--o{ Settings : "can have"
+Project --> ProjectImage : "has"
+Project --> Invitation : "has"
+Project --> BrainstormSession : "can have"
+Project --> Filter : "can have"
+Project --> Settings : "can have"
 
-BrainstormSession ||--o{ Idea : "generates"
+BrainstormSession --> Idea : "generates"
 
 @enduml
