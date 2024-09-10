@@ -1,0 +1,110 @@
+@startuml ERDiagramm
+
+' Define entities and their attributes
+entity User {
+  UserID (PK)
+  Name
+  Email
+  Password
+  ProfileImage
+  Bio
+  Skills
+  Location
+  CreatedAt
+  UpdatedAt
+}
+
+entity Project {
+  ProjectID (PK)
+  Title
+  Description
+  Category
+  StartDate
+  EndDate
+  Status
+  CreatedBy (FK to User)
+  CreatedAt
+  UpdatedAt
+}
+
+entity ProjectImage {
+  ImageID (PK)
+  ImageURL
+  UploadedBy (FK to User)
+  ProjectID (FK to Project)
+  UploadedAt
+}
+
+entity Invitation {
+  InvitationID (PK)
+  ProjectID (FK to Project)
+  SenderID (FK to User)
+  ReceiverID (FK to User)
+  Status
+  SentAt
+  RespondedAt
+}
+
+entity BrainstormSession {
+  SessionID (PK)
+  Title
+  Description
+  WhiteboardURL
+  CreatedBy (FK to User)
+  CreatedAt
+  UpdatedAt
+}
+
+entity Filter {
+  FilterID (PK)
+  FilterName
+  FilterCriteria
+  ProjectID (FK to Project)
+}
+
+entity Notification {
+  NotificationID (PK)
+  UserID (FK to User)
+  Content
+  IsRead
+  CreatedAt
+}
+
+entity Settings {
+  SettingsID (PK)
+  UserID (FK to User)
+  ProjectID (FK to Project, nullable)
+  NotificationsEnabled
+  PrivacySettings
+  LanguagePreference
+  CreatedAt
+  UpdatedAt
+}
+
+entity Idea {
+  IdeaID (PK)
+  BrainstormSessionID (FK to BrainstormSession)
+  Content
+  CreatedBy (FK to User)
+  CreatedAt
+}
+
+' Define relationships between entities
+User --> Project : "creates"
+User --> Project : "joins"
+User --> BrainstormSession : "participates in"
+User --> Notification : "receives"
+User --> Invitation : "sends/receives"
+User --> ProjectImage : "uploads"
+User --> Settings : "has"
+User --> Idea : "creates"
+
+Project --> ProjectImage : "has"
+Project --> Invitation : "has"
+Project --> BrainstormSession : "can have"
+Project --> Filter : "can have"
+Project --> Settings : "can have"
+
+BrainstormSession --> Idea : "generates"
+
+@enduml

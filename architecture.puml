@@ -1,0 +1,23 @@
+@startuml Architecture
+skinparam linetype ortho
+
+rectangle "Server" {
+  component "Frontend" as front
+  component "Backend" as back
+
+  component "Reverse Proxy" as RP
+}
+
+database "Database" as db
+database "Filestorage" as fileDb
+
+actor User as user
+
+db -[hidden]- fileDb
+
+user -> RP
+RP -> front
+front --> back
+back -> db
+back -> fileDb
+@enduml
