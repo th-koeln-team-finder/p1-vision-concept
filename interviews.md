@@ -1,3 +1,21 @@
+## Softwareentwickler/Student
+
+- Gruppenprojekte in der Freizeit begrenzt
+  - Bandmitgliedschaft, die aber nicht gut funktionierte, da die Gruppendynamik problematisch war
+  - Ansonsten nur lose Freundesgruppen, die gemeinsame Aktivitäten planen
+- Fehlende Selbstreflexion und Dominanzverhalten eines Teammitglieds führten zu Konflikten
+- Offene Kommunikation und gegenseitiger Respekt wichtige Voraussetzungen für ein funktionierendes Team.
+- Erfolgreiches Projektteam trotz anfänglicher Herausforderungen: Drei Subteams mit unterschiedlichen Persönlichkeiten fanden am Ende zusammen.
+- Teamarbeit in Firma: Kleine Firma, alle arbeiten an gleicher Software, kennen sich gut, kommunizieren direkt, keine klassische Teamdynamik, aber funktioniert gut, da alle gut miteinander auskommen.
+- Für ein eigenes Projekt: Leute aus eigenem Umfeld ansprechen, die thematisch passen und mit denen man gut zusammenarbeiten kann. 
+- Teambildungsmaßnahmen wie Vorstellungsrunden und Selbsteinschätzungen können wertvoll sein, auch wenn sie zunächst befremdlich erscheinen.
+  - Teambildung ist wichtig, aber nicht immer einfach. Schafft Zugehörigkeitsgefühl und Transparenz.
+  - Schwierig, diese selbst zu organisieren, da man sich dann leicht als "krasser Leader" darstellt.
+- Mischung aus bekannten und neuen Teammitgliedern bietet Vor- und Nachteile, je nach Projektanforderungen.
+- Projekterwartungen müssen abgestimmt werden, um produktive Zusammenarbeit zu ermöglichen. 
+  - Unterschiedliche Prioritäten erschweren die Zusammenarbeit, können aber überwunden werden.
+- Persönliches Interesse am Projektziel ist wichtig.
+
 ## Designerin
 
 - Gemeinsame Ziele und Schwerpunkte sind wichtig, gute Kommunikation dabei der Schlüssel
