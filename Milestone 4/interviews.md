@@ -1,3 +1,5 @@
+![wordcloud.svg](wordcloud.svg)
+
 ## Softwareentwickler/Student
 
 - Gruppenprojekte in der Freizeit begrenzt
