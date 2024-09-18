@@ -1,0 +1,228 @@
+@startuml ERDiagramm
+skinparam linetype ortho
+hide circle
+hide empty methods
+
+' tags text search (in usecases und Datenbanken und techstech einbauen), brainstorm moderation settings
+
+entity User {
+    + userId : int <<PK>>
+    --
+    + username : String
+    + email : String
+    + passwordHash : String
+    + profileImage : String
+    + bio : String
+    + location : String
+    + isPublic : Boolean
+    + allowInvites : Boolean
+    + languagePreference : String
+    + createdAt : Date
+}
+
+entity UserRatings {
+    + raterId : int <<PK>>
+    + ratedId : int <<PK>>
+    + ratingType : String <<PK>>
+    --
+    + createdAt : Date
+}
+
+entity Project {
+    + projectId : int <<PK>>
+    + originatedFrom : int <<FK>>
+    --
+    + isPublic : Boolean
+    + allowApplications : Boolean
+    + title : String
+    + description : String
+    + status : String
+    + additionalInfo : JSON
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity UserProjectSettings {
+    + userId : int <<PK>>
+    + projectId : int <<PK>>
+    --
+    + enableNotifications : Boolean
+    + preferredNotificationChannel : String
+}
+
+entity ProjectMembers {
+    + userId : int <<PK>>
+    + projectId : int <<PK>>
+    --
+    + role : String
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity Skill {
+    + skillId : int <<PK>>
+    --
+    + name : String
+}
+
+entity UserSkills {
+    + userId : int <<PK>>
+    + skillId : int <<PK>>
+    --
+    + level : Number
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity UserSkillVerification {
+    + verifyerId : int <<PK>>
+    + userSkillId : int <<PK>>
+    --
+    + status : String
+    + comment : String
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity ProjectSkillRequirement {
+    + projectId : int <<PK>>
+    + skillId : int <<PK>>
+    --
+    + level : Number
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity Application {
+    + userId : int <<PK>>
+    + projectId : int <<PK>>
+    --
+    + status : String
+    + message : String
+    + attachements : String
+    + createdAt : Date
+    + updatedAt : Date
+}
+
+entity Invitation {
+    + projectId : int <<PK>>
+    + receiverId : int <<PK>>
+    --
+    + status : String
+    + message : String
+    + createdAt : Date
+}
+
+entity Tag {
+    + tagId : int <<PK>>#
+    --
+    + name : String
+    + embeddings : JSON
+}
+
+entity TagUses {
+    + tagId : int <<PK>>
+    + day : Date <<PK>>
+}
+
+entity Notification {
+    + notificationId : int <<PK>>
+    + userId : int <<FK>>
+    --
+    + message : String
+    + origin : String
+    + readAt : Date
+    + createdAt : Date
+}
+
+entity Bookmark {
+    + userId : int <<PK>>
+    + entityType : String <<PK>>
+    + entityId : int <<PK>>
+    --
+    + createdAt : Date
+}
+
+entity Brainstorm {
+    + brainstormId : int <<PK>>
+    --
+    + title : String
+    + description : String
+    + autoAcceptNewItems : Boolean
+    + createdAt : Date
+}
+
+entity BrainstormWhiteboardItem {
+    + itemId : int <<PK>>
+    + brainstormId : int <<FK>>
+    + userId : int <<FK>>
+    --
+    + type : String
+    + status : String
+    + content : JSON
+    + createdAt : Date
+}
+
+entity Comment {
+    + commentId : int <<PK>>
+    + userId : int <<FK>>
+    + brainstormId : int <<FK>>
+    + parentCommentId : int <<FK>>
+    --
+    + content : String
+    + createdAt : Date
+}
+
+entity Star {
+    + userId : int <<PK>>
+    + entityType : String <<PK>>
+    + entityId : int <<PK>>
+    --
+    + createdAt : Date
+}
+
+Comment ||--o{ Comment
+
+User ||-u-o{ UserRatings
+User ||--o{ ProjectMembers
+User ||-r-o{ UserSkills
+User ||--o{ UserSkillVerification
+User ||--o{ UserProjectSettings
+User ||--o{ Application
+User ||--o{ Invitation
+User ||-u-o{ Notification
+User ||--o{ Bookmark
+User ||--o{ Comment
+User ||-l-o{ Star
+User ||-l-o{ BrainstormWhiteboardItem
+
+Project ||--o{ Tag
+Project ||-r-o{ ProjectSkillRequirement
+Project ||--o{ ProjectMembers
+Project ||--o{ UserProjectSettings
+Project ||-r-o{ Application
+Project ||--o{ Invitation
+
+Application -[hidden]- UserProjectSettings
+Application -r[hidden]- Invitation
+Bookmark -r[hidden]- ProjectMembers
+
+Skill ||-l-o{ UserSkills
+Skill ||--o{ ProjectSkillRequirement
+
+Brainstorm ||--o{ Project
+Brainstorm ||--o{ Comment
+Brainstorm ||--o{ Tag
+Brainstorm ||-u-o{ BrainstormWhiteboardItem
+
+UserSkills ||--o{ UserSkillVerification
+
+Bookmark ||--o{ Project
+Bookmark ||-l-o{ Brainstorm
+
+Star ||--o{ Project
+Star ||--o{ Brainstorm
+
+Tag ||-r-o{ TagUses
+
+@enduml
