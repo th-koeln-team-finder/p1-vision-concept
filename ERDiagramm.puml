@@ -3,6 +3,8 @@ skinparam linetype ortho
 hide circle
 hide empty methods
 
+' tags text search (in usecases und Datenbanken und techstech einbauen), brainstorm moderation settings
+
 entity User {
     + userId : int <<PK>>
     --
@@ -18,11 +20,12 @@ entity User {
     + createdAt : Date
 }
 
-entity Category {
-    + categoryId : int <<PK>>
-    + parentCategoryId : int <<FK>>
+entity UserRatings {
+    + raterId : int <<PK>>
+    + ratedId : int <<PK>>
+    + ratingType : String <<PK>>
     --
-    + name : String
+    + createdAt : Date
 }
 
 entity Project {
@@ -111,9 +114,15 @@ entity Invitation {
 }
 
 entity Tag {
-    + tagId : int <<PK>>
+    + tagId : int <<PK>>#
     --
     + name : String
+    + embeddings : JSON
+}
+
+entity TagUses {
+    + tagId : int <<PK>>
+    + day : Date <<PK>>
 }
 
 entity Notification {
@@ -139,11 +148,20 @@ entity Brainstorm {
     --
     + title : String
     + description : String
-    + whiteboard : JSON
+    + autoAcceptNewItems : Boolean
     + createdAt : Date
 }
 
-note left of Brainstorm : Maybe a new Entity\nfor Change Requests, so\nthey can be moderated
+entity BrainstormWhiteboardItem {
+    + itemId : int <<PK>>
+    + brainstormId : int <<FK>>
+    + userId : int <<FK>>
+    --
+    + type : String
+    + status : String
+    + content : JSON
+    + createdAt : Date
+}
 
 entity Comment {
     + commentId : int <<PK>>
@@ -165,6 +183,7 @@ entity Star {
 
 Comment ||--o{ Comment
 
+User ||-u-o{ UserRatings
 User ||--o{ ProjectMembers
 User ||-r-o{ UserSkills
 User ||--o{ UserSkillVerification
@@ -174,17 +193,19 @@ User ||--o{ Invitation
 User ||-u-o{ Notification
 User ||--o{ Bookmark
 User ||--o{ Comment
-User ||--o{ Star
+User ||-l-o{ Star
+User ||-l-o{ BrainstormWhiteboardItem
 
-Category ||--|| Category
-
-Project ||-l-o{ Category
 Project ||--o{ Tag
 Project ||-r-o{ ProjectSkillRequirement
 Project ||--o{ ProjectMembers
-Project ||-r-o{ UserProjectSettings
-Project ||-u-o{ Application
-Project ||-u-o{ Invitation
+Project ||--o{ UserProjectSettings
+Project ||-r-o{ Application
+Project ||--o{ Invitation
+
+Application -[hidden]- UserProjectSettings
+Application -r[hidden]- Invitation
+Bookmark -r[hidden]- ProjectMembers
 
 Skill ||-l-o{ UserSkills
 Skill ||--o{ ProjectSkillRequirement
@@ -192,14 +213,16 @@ Skill ||--o{ ProjectSkillRequirement
 Brainstorm ||--o{ Project
 Brainstorm ||--o{ Comment
 Brainstorm ||--o{ Tag
-Brainstorm ||--o{ Category
+Brainstorm ||-u-o{ BrainstormWhiteboardItem
 
 UserSkills ||--o{ UserSkillVerification
 
 Bookmark ||--o{ Project
-Bookmark ||--o{ Brainstorm
+Bookmark ||-l-o{ Brainstorm
 
 Star ||--o{ Project
 Star ||--o{ Brainstorm
+
+Tag ||-r-o{ TagUses
 
 @enduml
