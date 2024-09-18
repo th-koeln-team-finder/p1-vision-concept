@@ -1,4 +1,4 @@
-1. Rolle in der Firma: IT Consultant und Software Entwickler. 
+IT Consultant und Software Entwickler. 
 2. kein Interesse an Privat Projekten, um Arbeit und Hobby zu trennen
 3. Ein Projekt ist Erfolgreich, wenn es mehr wert stiftet, als es gekostet hat.
 4. Ein Team ist erfolgreich,
