@@ -13,6 +13,7 @@
 | Project Creator | link other resources (such as GitHub or Figma)                                                         | people can view the current state of the project upfront            | Medium    |
 | Project Creator | to be able to add assignments under a “Good for starters” section                                      | people can get an impression of what they could work on in the beginning | Low       |
 | Project Creator | to be able to integrate existing management platforms (e.g. GitHub, Slack, Teams, etc.)                | I do not have to copy and paste duplicate information such as issue tickets | Medium    |
+| Project Creator | to be able to view badges that potential team mates have collected                | I can see people right away that have been positively rated in the past | Medium    |
 
 
 | Rolle                       | Anforderung                                                                 | Zweck                                                                                         | Priorität |
@@ -42,6 +43,7 @@
 | Rolle            | Anforderung                                                           | Zweck                                                                                                     | Priorität |
 |------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------|
 | Projektmitglied  | to be able to fill out a peer review about my fellow team mates       | I can help the system improve their recommendation algorithms and give feedback to my teammates           | Medium    |
+| Projektmitglied  | to be able to give my team mates positive ratings in specific areas       | I can show others the positive aspects of working with these team mates           | Medium    |
 | Projektmitglied  | my project to be added to my personal project history                 | I do not have to manually update my project for each project                                               | Low       |
 | Projektmitglied  | to be able to leave a project                                         | The spots on a project free up again                                                                       | Medium    |
 | Projektmitglied  | to know the next steps after joining a project (next meetings, initial meeting, etc.) | I can start working on the project as soon as possible                                                      | High      |
