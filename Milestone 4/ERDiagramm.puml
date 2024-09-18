@@ -3,8 +3,6 @@ skinparam linetype ortho
 hide circle
 hide empty methods
 
-' tags text search (in usecases und Datenbanken und techstech einbauen), brainstorm moderation settings
-
 entity User {
     + userId : int <<PK>>
     --
