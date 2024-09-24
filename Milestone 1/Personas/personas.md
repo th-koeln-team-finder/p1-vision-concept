@@ -29,7 +29,7 @@
 
 ## Jonas
 
-![img.png](jonas overview.png)
+![img.png](jonas%20overview.png)
 ![img.png](jonas interests.png)
 
 `#sucht-projekt`
