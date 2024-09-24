@@ -1,28 +1,115 @@
-Ziel ist die Modellierung möglicher Nutzer der Anwendung, um deren Pain Points zu verstehen und Wünsche nachvollziehen zu können und im Zuge dessen Anforderungen ableiten und priorisieren zu können. Es ist zudem gut vereinbar mit einem User-Centered Design Ansatz, welcher von uns verfolgt wird. Im “Double Diamond” Modell ist dieses Verfahren Teil der zweiten Phase.
+# Personas
 
-Eine Persona wird durch ein fiktives Individuum dargestellt, das wiederum eine Gruppe realer Konsumenten mit ähnlichen Eigenschaften repräsentiert. Die Vorteile sind unter anderem ein verbesserter Fokus auf Zielnutzer und verbesserte Kommunikation innerhalb des Designteams. [1]
+## Available Tags
 
-Für unser Projekt wurden von uns verschiedene Personen erdacht (teils inspiriert von real existierenden Personen), für die die Themen “Projekte” und “Projektteams” relevant sind. Für diese Personen wurde eine kurze Biografie verfasst, die beispielsweise Tätigkeiten oder Persönlichkeit der Person genauer umschreibt. Durch Immersion wird versucht, sich dabei in die Person hereinzuversetzen und folgende Details zu der Person zu erfahren:
+### Knowledge
+`#knowledge-beginner` `#knowledge-intermediate` `#knowledge-advanced`
 
-- Interessen
-- Einflüsse
-- Ziele
-- Bedürfnisse und Erwartungen
-- Motivation
-- Pain Points und Frustrationen
+### Wonach wird gesucht?
+`#sucht-Teammitglieder`
+`#sucht-projekt`
 
-Insgesamt wurden zehn verschiedene Personas erstellt. Um Gemeinsamkeiten zwischen den Personas zu beleuchten, haben wir diese Personas anschließend mit “Tags” Gruppen zugeordnet. Diese kategorisieren die Personas beispielsweise danach, ob für sie das Thema für ein potentielles Teamprojekt schon feststeht oder ob es noch keine konkreten Vorstellungen für ein Thema gibt.
+### Steht das Thema?
+`#thema-festgelegt`
+`#thema-offen`
 
-[Eine Liste der erstellten Personas befindet sich hier](personas.md)
+### Context
+`#context-legere`
+`#context-professionell`
 
-Bei unserer Anwendung dieser Technik wurden zwei Personas erstellt, deren Ziele vorrangig wirtschaftlicher Natur sind. Wir haben uns dazu entschieden, diese für den weiteren Verlauf des Projektes eher in den Hintergrund zu rücken, da die Anwendung nicht primär für professionelle Angelegenheiten wie z.B. Recruiting genutzt bzw. missbraucht werden soll, sondern dem Fördern kollaborativen Arbeitens von Enthusiasten dienen soll.
+### Motiv
+`#motiv-learning`
+`#motiv-support`
+`#motiv-portfolio`
+`#motiv-netzwerken`
 
-Auf Basis der Personas konnten wir ein Liste an Anforderungen ableiten, da diese den Fokus auf die konkreten Bedürfnisse möglicher Nutzer legen. Zudem haben wir anhand der Gruppierung der Personas folgende Benutzergruppen ableiten können:
+### Team Zusammensetzung
+`#team-homogen`
+`#team-mixed`
 
-- System Admin (Host von System)
-- Projektersteller (Quasi Admin eines Projekts)
-- Projektmitglieder (Mitglieder die dem Projekt zugewiesen wurden / es gefunden haben)
-- Projektsuchender (Will arbeiten und sucht ein Projekt dafür)
-- Brainstormer (Möchte ein Projekt erstellen ohne konkrete Idee)
+## Jonas
 
-[1] **Tomasz Miaskiewicz, Kenneth A. Kozar**, *Personas and user-centered design: How can personas benefit product design processes?*, Design Studies, Volume 32, Issue 5, 2011, Pages 417-430, ISSN 0142-694X,
+![img.png](jonas%20overview.png)
+![img.png](jonas%20interests.png)
+
+`#sucht-projekt`
+`#knowledge-beginner`
+`#thema-offen`
+`#context-legere`
+`#motiv-learning`
+`#team-homogen`
+
+## Marie
+![img_2.png](marie%20overview.png)
+![img.png](marie%20interests.png)
+
+`#knowledge-Intermediate`
+`#thema-festgelegt`
+`#sucht-teammitglieder`
+`#context-professionell`
+`#motiv-support`
+`#team-mixed`
+
+## ~~Steffen~~
+![img_1.png](steffen%20overview.png)
+![img_2.png](steffen%20interests.png)
+
+`#thema-festgelegt`
+`#sucht-teammitglieder`
+`#context-professionell`
+
+## Danny
+![img_3.png](danny%20overview.png)
+![img_1.png](danny%20interests.png)
+
+`#sucht-projekt`
+`#knowledge-Intermediate`
+`#thema-offen`
+`#context-professionell`
+`#motiv-portfolio`
+
+## Clara
+
+![img.png](clara%20overview.png)
+![img.png](clara%20interests.png)
+
+`#thema-festgelegt`
+`#sucht-teammitglieder`
+`#knowledge-Profi`
+`#context-professionell`
+`#motiv-support`
+`#team-homogen`
+
+## Felix
+![img.png](felix%20overview.png)
+![img.png](felix%20interests.png)
+`#team-mixed`
+`#motiv-netzwerken`
+`#motiv-portfolio`
+`#thema-offen`
+`#knowledge-Intermediate`
+`#context-professionell`
+`#context-legere`
+
+## ~~Marc~~
+![img.png](marc%20overview.png)
+![img_2.png](marc%20interests.png)
+`#thema-offen`
+## James
+![img.png](james%20overview.png)
+![img_1.png](james%20interests.png)
+`#motiv-support`
+`#motiv-netzwerken`
+`#sucht-projekt`
+`#thema-offen`
+`#knowledge-Profi`
+`#context-professionell`
+## Sarah Lee
+![img_1.png](sarah%20lee%20overview.png)
+![img.png](sarah%20lee%20interests.png)
+`#sucht-projekt`
+`#team-homogen`
+`#thema-offen`
+`#knowledge-Intermediate`
+`#motiv-learning`
+`#context-professionell`
