@@ -4,7 +4,7 @@ Projekt Phase 1 für die Konzeption und Vision
 ## Milestone 1
 
 - Interviews-Planung
-- Literaturrecherche
+- [Literaturrecherche](Milestone%201/Domain%20Research.md)
 - [Personas](Milestone%201/Personas.md)
 - [SWAT-Analyse](Milestone%201/SWAT%20Analyse.md)
 
