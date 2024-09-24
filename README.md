@@ -3,21 +3,23 @@ Projekt Phase 1 für die Konzeption und Vision
 
 ## Milestone 1
 
-- [Personas](Milestone 1/Personas)
-- SWAT-Analyse
 - Interviews-Planung
 - Literaturrecherche
+- [Personas](Milestone%201/Personas.md)
+- [SWAT-Analyse](Milestone%201/SWAT%20Analyse.md)
 
 ## Milestone 2
 
 - Research Methode Design
 - Requirements (Anforderungen, Erfordernisse)
+- Data Dictionary
 - User Stories
 - Values formulieren für Value sensitive Design
+- Power Interest Matrix
 
 ## Milestone 3
 
-- HTA
+- Hierarchical Task Analysis
 - Interview-Durchführung
 - Wireframes
 
