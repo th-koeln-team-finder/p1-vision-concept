@@ -10,7 +10,7 @@ Projekt Phase 1 für die Konzeption und Vision
 
 ## Milestone 2
 
-- Research Methode Design
+- Design Methodologien
 - Requirements (Anforderungen, Erfordernisse)
 - Data Dictionary
 - User Stories
