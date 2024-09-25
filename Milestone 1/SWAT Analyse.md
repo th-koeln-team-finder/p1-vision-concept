@@ -1,1 +1,0 @@
-![img.png](swat%20analyse.png)

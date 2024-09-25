@@ -6,7 +6,7 @@ Projekt Phase 1 für die Konzeption und Vision
 - Interviews-Planung
 - [Literaturrecherche](Milestone%201/Domain%20Research.md)
 - [Personas](Milestone%201/Personas.md)
-- [SWAT-Analyse](Milestone%201/SWAT%20Analyse.md)
+- [SWOT-Analyse](Milestone%201/SWOT%20Analyse.md)
 
 ## Milestone 2
 
