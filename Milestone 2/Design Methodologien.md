@@ -37,9 +37,9 @@ Value Sensitive und Activity based Design sind spezifizierte Designprinzipien de
 > **Value sensitive Design**
 > Die übergeordneten Werten und Prioritäten der Stakeholder für die Nutzung des Systems werden betont und ethische und nachhaltige Überlegungen werden bei den Iterationen betrachtet.
 
-**Kontextsensitivität 
+**Kontextsensitivität** 
 > 
-> User Centered Design**
+> **User Centered Design**
 > Der Nutzungskontext hat einen einen Einfluss auf das Design der Anwendung 
 > 
 > **Activity Centered:**
