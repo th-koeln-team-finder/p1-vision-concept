@@ -13,9 +13,6 @@ Dadurch, dass das zu entwickelnde System von unterschiedlichen Nutzenden verwend
 Die Designperspektiven Positive Computing, Cooperative Design und Contextual Design wurden aus der engeren Auswahl ausgeschlossen. Cooperative Design fokussiert sich auf die Entwicklung eines Systems mit Einbezug aller mit dem Projekt zusammenhängender Stakeholder. Da es sich bei dem System aber um ein eigenständiges Projekt mit 5 Teammitgliedern handelt, wenige Stakeholder beteiligt sind und das Projekt im Unikontext entsteht, ist ein solches Design unpassend.
 Positive Computing wird als Designmethode ebenfalls ausgeschlossen, da auf dem geplanten System wenige umfassende Nutzerinteraktionen stattfinden werden, die sich auf die Emotionen der Nutzenden beziehen oder sie verändern könnten. Nutzer des Systems sollen die Funktionen der Anwendung eher als Werkzeug und Schnittstelle mit anderen verwenden, um sich etwa im Team zu organisieren und Projekte zu finden. Das System wird wenig weitere Selbstverwendungszwecke aufweisen.
 
-><font color="#ff0000">Frage</font>
-><font color="#ff0000">macht diese Begründung wegen Positive Computing sinn? </font>
-
 Contextual Design ist für das Projekt auch nicht passend, da dabei der Fokus auf die Analyse der Nutzungskontexte gelegt wird, Nutzenden die Anwendung jedoch in jedem beliebigen Kontext und auf unterschiedlichen Geräten verwenden werden können.
 
 Schlussendlich kommen für das Projekt die Designprinzipien Value Sensitive Design, Activitiy Centered Design und User Centered Design infrage. 
