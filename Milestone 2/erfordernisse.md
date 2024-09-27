@@ -1,3 +1,11 @@
+# Erfordernisse
+
+Durch das Definieren von Erfordernissen soll sichergestellt werden, dass alle wesentlichen Anforderungen an eine Anwendung erfüllt und grundlegende Funktionen vorhanden sind. Daher ist es entscheidend, diese Erfordernisse systematisch zu sammeln und zu priorisieren, um den Entwicklungsprozess effizient zu gestalten und eine durchdachte Benutzeroberfläche zu gewährleisten.
+
+Erfordernisse lassen sich in funktionale Anforderungen (z.B. bestimmte Funktionen, die eine Anwendung erfüllen muss) als auch qualitative Anforderungen (z.B. Performance oder Skalierbarkeit) einteilen. Durch das Festlegen von Erfordernissen soll eine zielgerichtete und benutzerorientierte Entwicklung ermöglicht werden. Dabei gilt es, besonders die Komplexität und somit den Aufwand für die Umsetzung im Auge zu behalten, um eine realistische Planung zu gewährleisten.
+
+Im Folgenden sind gesammelte Erfordernisse aufgeführt:
+
 | ID  | Objektbereich        | Typ         | Stakeholder | Erforderniss                                                                 | Priorität | Komplexität/Größe |
 |-----|----------------------|-------------|-------------|-------------------------------------------------------------------------------|-----------|-------------------|
 | E01 | Suche                | Functional  | -           | Die Suche durch Tags anpassen ermöglichen                               | Hoch      | Mittel            |

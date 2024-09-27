@@ -1,3 +1,13 @@
+# Anforderungen
+
+Anforderungen an eine Anwendung dienen dazu, die Erwartungen und Bedürfnisse der potenziellen Nutzer zu erfassen, um die Funktionalität und Benutzerfreundlichkeit gezielt zu verbessern. Im Rahmen eines nutzerzentrierten Designansatzes (User-Centered Design) wird darauf geachtet, die Anforderungen aus der Perspektive der Nutzer zu verstehen und abzuleiten, um so die Entwicklung zu optimieren.
+
+Die Erstellung von Anforderungen erfolgt auf Basis von Nutzergruppen und Personas. Durch die Analyse dieser Nutzergruppen lassen sich gezielt Anforderungen an das System ableiten, die die User Experience verbessern. Zudem können wichtige Funktionen festgelegt werden, die im System erforderlich sind und bei der Entwicklung entsprechend berücksichtigt werden sollen. Wichtig ist dabei die Priorisierung der Anforderungen, um den Fokus auf wesentliche Funktionen zu legen, die für den Erfolg der Anwendung entscheidend sind.
+
+Für unsere Anwendung haben wir daher verschiedene Anforderungen aus Sicht der einzelnen Nutzergruppen formuliert.
+
+Im Folgenden sind unsere Anforderungen an die Anwendung aufgelistet:
+
 | Rolle           | Anforderung                                                                                             | Zweck                                                              | Priorität |
 |-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------|
 | Project Creator | be able to publish a project with a name, description, promotional images/videos and other project related information | interested users can view and understand the project                | High      |
