@@ -10,7 +10,7 @@ Projekt Phase 1 für die Konzeption und Vision
 
 ## Milestone 2
 
-- Design Methodologien
+- [Design Methodologien](Milestone%202/Design%20Methodologien.md)
 - Requirements (Anforderungen, Erfordernisse)
 - Data Dictionary
 - User Stories
