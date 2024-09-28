@@ -1,5 +1,45 @@
 ![wordcloud.svg](wordcloud.svg)
 
+## IT Consultant/ Software Entwickler. 
+
+- kein Interesse an Privat Projekten, um Arbeit und Hobby zu trennen
+- Ein Projekt ist Erfolgreich, wenn es mehr wert stiftet, als es gekostet hat.
+- Ein Team ist erfolgreich,
+   - wenn es den Realen Stand an die Entscheidungsträger widerspiegeln kann;
+   - wenn es die Aufgaben in einer nachvollziehbaren Zeit abschließen können und die Arbeit den gesetzten Qualitativen Ansprüchen genügen,
+- Kein Team ist erfolgreich wenn es sich hasst. Die Teammitglieder sollten sich zumindest gegenseitig und ihre zugeteilten Rollen Respektieren. Das Teamklima hat auch einen Einfluss auf das Engagement der Teammitglieder
+- Menschen die im Arbeitsalltag zu Konträre Persönlichkeiten haben können auch Zusammen gut arbeiten, wenn sie "Ihre Persönlichkeit mit Professionalität zügeln können". Es ist trotzdem weniger Anstrengend wenn sich die Personen gut verstehen. 
+- Kontext ist für Rollenverteilung in Bezug auf die Gruppendynamik ausschlaggebend. "Wenn ich denke, die sind alle deutlich besser als ich, werde ich niemals in eine Führungsposition (einnehmen). " Dennoch sollten eigene Meinungen nicht zurückgehalten werden, wenn es starke Meinungsverschiedenheiten gibt.
+- Kommunikation ist (vermutlich) die wichtigste Fähigkeit im Team. "wenn ihr ... nicht kommunizieren (könnt), dann (braucht ihr) nicht zusammenzuarbeiten "
+- Erwartungen an ein Projekt in einem Arbeitsumfeld kommen von den Auftraggebern und den Vorgesetzten. Eine Erwartung ist, ist dass man die Verantwortung für die eigene Arbeit trägt.
+- Besonders vorteilhaft ist es wenn man ein Projekt von vorne aufrollt, da man daraus viel Mehrwert schöpfen kann.
+- Es ist schwierig das können anderer Personen von Anfang an einzuschätzen und somit passende  Projekte zu finden.
+- Eine Skill-datenbank ist eine Möglichkeit das können der Mitarbeiter einzusehen. Die Personen können dort dann ihre eigenen Fähigkeiten und Interessen eintragen. Im Arbeitskontext ist ein Kontrolle dieser Daten nicht zwingend notwendig. Ehrlichkeit und Transparenz sind dabei aber dann zwingend erforderlich. Ein Staffing über mehrere Stellen mit weniger direktem Kontakt ist sonst schwierig.
+- Ein Mentor in einem neuen Bereich beschleunigt das lernen. Man lernt best Practices und hat eine bessere Grundlage
+
+## (technischer) Projektmanager/ full-stack-Entwickler
+
+- Kunden wissen zu beginn nicht genau, wie das Endprodukt aussehen soll. Projekte entwickeln sich immer weiter.
+- Gute Kundenkommunikation ist essentiell, besonders bei neuen Bereichen. Alle Parteien sollten auf einem gleichen stand sein.
+- Offene und transparente Kommunikation innerhalb eines Teams ist  für die Performance des Teams auch sehr wichtig. Das Team sollte sich zusammen als Gruppe austauschen und besonders relevante Informationen mit allen teilen. Feedback am ende einer Iteration ist auch hilfreich, um die Teamperformance stetig zu steigern. Regelmäßige Meetings um alle Teammitglieder auf den selben Stand zu bringen sind auch Sinnvoll
+- unterschiedliche und neue Perspektiven können für ein Projekt sehr hilfreich sein. Das Team sollte im besten Fall Divers, bzw. abwechslungsreich aufgestellt sein.
+- Unterschiedliche Persönlichkeiten und Erfahrungen können einen sowohl positiven, als auch negativen Einfluss auf das Team haben. Eine direkte Herangehensweisen kann zum Beispiel förderlich, in manchen Konstellationen oder Kontexten aber auch hinderlich sein.
+- Kommunikation kann auch dabei helfen unnötige Arbeitsschritte, oder Wiederholungen zu vermeiden. Besonders voneinander abhängige Abteilungen sollten im regen Kontakt zueinander stehen.
+- Es ist sinnvoll die Expertise von anderen Personen abzufragen, wenn diese mehr Wissen in einem Gebiet haben. 
+- offene Kommunikation über die eigenen Stärken und Schwächen können dem Team zugute kommen.
+
+## Kommunikationsdesigner für Markenentwicklung.
+
+- Weites Spektrum an Kunden und Aufgaben.
+- Man hat nicht genug Zeit sich in alle Themengebiete einzuarbeiten, weshalb es immer sinnvoll ist mit Experten zu arbeiten.
+- Ein Projekt ist erfolgreich, wenn alle Stakeholder mit dem Ergebnis des Projektes zufrieden sind. auch wenn es mehrere Hürden gab oder man Kompromisse finden musst, kann ein Projekt erfolgreich sein.
+- Ein Team ist erfolgreich, wenn es mit den vorgegebenen Ressourcen gut und performant arbeiten konnte.
+- Es ist vorteilhaft mit den selben Menschen immer wieder zu arbeiten, da man die Personen und ihre Arbeit besser einschätzen kann. Prozesse und das Planen werden erleichtert, die funktionierenden Arbeitsweisen sind erschlossen. Neue Personen sorgen immer für unbekannte Variablen.
+- Unterschiedliche Persönlichkeiten können einen Einfluss auf das Team haben. Nicht kompatible Persönlichkeiten können sich zum Beispiel negativ auf Kommunikation auswirken und Spannungen zwischen den Teammitgliedern können entstehen.
+- Diversität in Bezug auf die Herkunft oder den Charakter spielt bei der Auswahl der Projektmitglieder keine entscheidende Rolle. Kompatibilität und Harmonie der Persönlichkeiten spielen dabei eher eine Rolle 
+- Man kann besser mit freunden oder Bekannten arbeiten als mit fremden Menschen
+- Besonders Zeitplanung und Kommunikation spielen eine wichtige Rolle im Team
+
 ## Softwareentwickler/Student
 
 - Gruppenprojekte in der Freizeit begrenzt
