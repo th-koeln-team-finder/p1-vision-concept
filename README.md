@@ -20,13 +20,12 @@ Projekt Phase 1 für die Konzeption und Vision
 ## Milestone 3
 
 - Hierarchical Task Analysis
-- Interview-Durchführung
 - Wireframes
 
 ## Milestone 4
 
 - Designsystem
-- Auswertung Interview
+- [Auswertung Interview](Milestone%204/Ausertung%20Interview.md)
 - ER-Diagramm
 - Architektur-Diagramm + Technologie-Recommendation
 
