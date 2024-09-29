@@ -4,7 +4,9 @@ Anforderungen an eine Anwendung dienen dazu, die Erwartungen und Bedürfnisse de
 
 Die Erstellung von Anforderungen erfolgt auf Basis von Nutzergruppen und Personas. Durch die Analyse dieser Nutzergruppen lassen sich gezielt Anforderungen an das System ableiten, die die User Experience verbessern. Zudem können wichtige Funktionen festgelegt werden, die im System erforderlich sind und bei der Entwicklung entsprechend berücksichtigt werden sollen. Wichtig ist dabei die Priorisierung der Anforderungen, um den Fokus auf wesentliche Funktionen zu legen, die für den Erfolg der Anwendung entscheidend sind.
 
-Für unsere Anwendung haben wir daher verschiedene Anforderungen aus Sicht der einzelnen Nutzergruppen formuliert.
+Für unsere Anwendung haben wir daher verschiedene Anforderungen in Form von "User Stories" formuliert. 
+Es handelt sich um allgemeinsprachliche Anforderungen, welche aus Sicht der einzelnen Nutzergruppen formuliert sind.
+[Die im FigJam visualisierten User Stories befinden sich hier.](User%20Stories/README.md)
 
 Im Folgenden sind unsere Anforderungen an die Anwendung aufgelistet:
 

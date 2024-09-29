@@ -2,20 +2,20 @@
 
 ## Project Creator
 
-[Project Creator](project%20creator.png)
+![Project Creator](project%20creator.png)
 
 ## Projektsuchender
 
-[Projektsuchender](Projektsuchender.png)
+![Projektsuchender](Projektsuchender.png)
 
 ## Projektmitglied
 
-[Projektmitglied](Projektmitglied.png)
+![Projektmitglied](Projektmitglied.png)
 
 ## Brainstormer
 
-[Brainstormer](Brainstormer.png)
+![Brainstormer](Brainstormer.png)
 
 ## System Admin
 
-[System Admin](system%20admin.png)
+![System Admin](system%20admin.png)
