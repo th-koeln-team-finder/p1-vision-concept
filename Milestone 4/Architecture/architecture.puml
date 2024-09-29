@@ -8,7 +8,9 @@ rectangle "Server" {
   component "Reverse Proxy" as RP
 }
 
-database "Database" as db
+database "Database" as db {
+  component "Vector Search"
+}
 database "Filestorage" as fileDb
 
 actor User as user
