@@ -3,7 +3,7 @@ Projekt Phase 1 für die Konzeption und Vision
 
 ## Milestone 1
 
-- [Interviews-Planung](Milestone%201/Interview%201Planung.md)
+- [Interviews-Planung](Milestone%201/Interview%20Planung.md)
 - [Literaturrecherche](Milestone%201/Domain%20Research.md)
 - [Personas](Milestone%201/Personas.md)
 - [SWOT-Analyse](Milestone%201/SWOT%20Analyse.md)
