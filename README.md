@@ -13,13 +13,13 @@ Projekt Phase 1 für die Konzeption und Vision
 - [Design Methodologien](Milestone%202/Design%20Methodologien.md)
 - Requirements ([Anforderungen](Milestone%202/anforderungen.md), [Erfordernisse](Milestone%202/erfordernisse.md))
 - Data Dictionary
-- User Stories
+- [User Stories](Milestone%202/anforderungen.md)
 - Values formulieren für Value sensitive Design
 - [Power Interest Matrix](Milestone%202/power%20interest%20matrix.md)
 
 ## Milestone 3
 
-- Hierarchical Task Analysis
+- [Hierarchical Task Analysis](Milestone%203/HTA.md)
 - Wireframes
 
 ## Milestone 4
