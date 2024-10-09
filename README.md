@@ -23,7 +23,7 @@ Projekt Phase 1 für die Konzeption und Vision
 ## Milestone 4
 
 - [Designsystem](Milestone%204/designsystem.md)
-- [Auswertung Interview](Milestone%204/Auswertung%20Interview.md)
+- [Interview Auswertung](Milestone%204/Auswertung%20Interview.md)
 - [ER-Diagramm](Milestone%204/ErDiagram.md)
 - [Architektur](Milestone%204/Architektur.md)
 

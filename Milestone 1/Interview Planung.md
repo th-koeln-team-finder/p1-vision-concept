@@ -57,3 +57,6 @@ Zu Beginn der Interviews wurden die Interviewpartner\*innen über den Inhalt, Ab
 
 
 Ein Interview wurde von 2 Interviewer\*innen mit dem\*der jeweiligen Interviewpartner\*in geführt. Dabei leitete eine Person das Interview anhand des Leitfadens, während die andere zusätzliche Elaborationen und Vertiefungen potenziell relevanter und neuer Themengebiete bei dem Interviewpartner durch Nachfragen anregte. Die Interviewpartner wurden dazu angehalten die Fragen möglichst umfassend und ausschweifend zu beantworten, um potentiell relevante und neue Aspekte zu erfassen, die bei vorherigen Untersuchungen bislang nicht erkannt wurden. Themen, die durch den Kontext des Interviews überflüssig wären, wurden übergangen. 
+
+
+Der Prozess der Interviews lief über mehrere Meilensteine hinweg, weshalb die Auswertung der Interviews in Meilenstein 4 aufgeführt ist: [Interview Auswertung](../Milestone%204/Auswertung%20Interview.md)

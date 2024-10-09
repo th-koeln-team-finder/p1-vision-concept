@@ -1,6 +1,10 @@
+# Interview Auswertung
+
+Die durchgeführten Interviews wurden im Folgenden pro Interviewpartner ausgewertet. Die Ergebnisse der einzelnen Interviews bieten detaillierte Einblicke in die jeweiligen Ansichten und Aussagen der Teilnehmer. Zudem wurde eine "Wordcloud" (folgende Abbildung) erstellt, die die wichtigsten und am häufigsten verwendeten Begriffe aus den Interviews visuell zusammenfasst.
+
 ![wordcloud.svg](wordcloud.svg)
 
-## IT Consultant/ Software Entwickler. 
+### IT Consultant/ Software Entwickler. 
 
 - kein Interesse an Privat Projekten, um Arbeit und Hobby zu trennen
 - Ein Projekt ist Erfolgreich, wenn es mehr wert stiftet, als es gekostet hat.
@@ -17,7 +21,7 @@
 - Eine Skill-datenbank ist eine Möglichkeit das können der Mitarbeiter einzusehen. Die Personen können dort dann ihre eigenen Fähigkeiten und Interessen eintragen. Im Arbeitskontext ist ein Kontrolle dieser Daten nicht zwingend notwendig. Ehrlichkeit und Transparenz sind dabei aber dann zwingend erforderlich. Ein Staffing über mehrere Stellen mit weniger direktem Kontakt ist sonst schwierig.
 - Ein Mentor in einem neuen Bereich beschleunigt das lernen. Man lernt best Practices und hat eine bessere Grundlage
 
-## (technischer) Projektmanager/ full-stack-Entwickler
+### (technischer) Projektmanager/ full-stack-Entwickler
 
 - Kunden wissen zu beginn nicht genau, wie das Endprodukt aussehen soll. Projekte entwickeln sich immer weiter.
 - Gute Kundenkommunikation ist essentiell, besonders bei neuen Bereichen. Alle Parteien sollten auf einem gleichen stand sein.
@@ -28,7 +32,7 @@
 - Es ist sinnvoll die Expertise von anderen Personen abzufragen, wenn diese mehr Wissen in einem Gebiet haben. 
 - offene Kommunikation über die eigenen Stärken und Schwächen können dem Team zugute kommen.
 
-## Kommunikationsdesigner für Markenentwicklung.
+### Kommunikationsdesigner für Markenentwicklung.
 
 - Weites Spektrum an Kunden und Aufgaben.
 - Man hat nicht genug Zeit sich in alle Themengebiete einzuarbeiten, weshalb es immer sinnvoll ist mit Experten zu arbeiten.
@@ -40,7 +44,7 @@
 - Man kann besser mit freunden oder Bekannten arbeiten als mit fremden Menschen
 - Besonders Zeitplanung und Kommunikation spielen eine wichtige Rolle im Team
 
-## Softwareentwickler/Student
+### Softwareentwickler/Student
 
 - Gruppenprojekte in der Freizeit begrenzt
   - Bandmitgliedschaft, die aber nicht gut funktionierte, da die Gruppendynamik problematisch war
@@ -58,7 +62,7 @@
   - Unterschiedliche Prioritäten erschweren die Zusammenarbeit, können aber überwunden werden.
 - Persönliches Interesse am Projektziel ist wichtig.
 
-## Designerin
+### Designerin
 
 - Gemeinsame Ziele und Schwerpunkte sind wichtig, gute Kommunikation dabei der Schlüssel
 - Zwischenmenschlich "aushaltbar", damit es Spaß macht, am Projekt zu arbeiten
@@ -80,7 +84,7 @@
     - "dass man halt so sich Reviews durchlesen kann, wie die Person so ist und so, dass man dann vielleicht auf unterschiedlichen Ebenen bewerten kann"
 - Würde unsere Software gerne testen :)
 
-## Selbstständiger Unternehmer
+### Selbstständiger Unternehmer
 
 - Gute Zusammenarbeit sehr wichtig und wird durch Personen erreicht die sich gut ergänzen
 - Teamklima ist A und O
@@ -95,7 +99,7 @@
     - Kennt keine zentrale Anlaufstelle
 - Möchte auf Basis des Projekts ein Unternehmen mit 10-20 Mitarbeitern haben
 
-## Leiter Forschungsprojekt
+### Leiter Forschungsprojekt
 
 - Aufteilung der Arbeit in kleine Ziele
 - Fokus auf Forschungsprojekte
@@ -119,6 +123,7 @@
 - "Es gibt ja auch viele Gruppen, die wollen in Projekten arbeiten, ohne feste Ziele zu definieren und ohne feste Termine zu haben"
 - Eher laizess-faire Arbeitsweise (Leute machen issues auf und irgendwer wird sich schon drum kümmern)
 
+---
 
 ## Fazit
 - Teamklima muss nicht mit Erfolg korrelieren
