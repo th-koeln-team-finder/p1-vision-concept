@@ -1,14 +1,16 @@
+# Design Methodologien
+
 Für das Design und Vorgehen des Projektes werden verschiedene etablierte Designmethodologien diskutiert und abgewogen. Es wird eine Methodologie gewählt, die dem Fokus und der Vision der zu entwerfenden Anwendung entspricht.
 Die Festlegung eines Designvorgehens sorgt für eine bessere Kommunikation innerhalb des Entwicklungsteams, da alle Mitglieder ein abgestimmtes Verständnis der zukünftigen Anwendung teilen. Die Richtung und der Rahmen werden fokussierter, die relevanten Aspekte werden konkreter gewichtet und die Entwicklungsschritte und zu erzeugenden Artefakte können aus der Designmethodologie abgeleitet werden. Für die Festlegung einer Methodologie wurden etablierte Konzepte aufgearbeitet und miteinander verglichen.
 
 Dadurch, dass das zu entwickelnde System von unterschiedlichen Nutzenden verwendet wird, werden unterschiedliche relevante Methodologien und Perspektiven der HCI diskutiert. Konkret wurden betrachtet:
 
-**Activity Centered Design**
-**User Centered Design**
-**Value sensitive Design**
-**Cooperative Design**
-**Contextual Design**
-**Positive Computing**
+- **Activity Centered Design**
+- **User Centered Design**
+- **Value sensitive Design**
+- **Cooperative Design**
+- **Contextual Design**
+- **Positive Computing**
 
 Die Designperspektiven Positive Computing, Cooperative Design und Contextual Design wurden aus der engeren Auswahl ausgeschlossen. Cooperative Design fokussiert sich auf die Entwicklung eines Systems mit Einbezug aller mit dem Projekt zusammenhängender Stakeholder. Da es sich bei dem System aber um ein eigenständiges Projekt mit 5 Teammitgliedern handelt, wenige Stakeholder beteiligt sind und das Projekt im Unikontext entsteht, ist ein solches Design unpassend.
 Positive Computing wird als Designmethode ebenfalls ausgeschlossen, da auf dem geplanten System wenige umfassende Nutzerinteraktionen stattfinden werden, die sich auf die Emotionen der Nutzenden beziehen oder sie verändern könnten. Nutzer des Systems sollen die Funktionen der Anwendung eher als Werkzeug und Schnittstelle mit anderen verwenden, um sich etwa im Team zu organisieren und Projekte zu finden. Das System wird wenig weitere Selbstverwendungszwecke aufweisen.
@@ -22,7 +24,7 @@ Alle drei betrachteten Ansätze stellen die Nutzenden der Systeme in den Vorderg
 User centered Design ist eine Designperspektive, die einen starken Fokus auf Benutzerfreundlichkeit, Zugänglichkeit und Nützlichkeit legt, wobei die Interessen und Bedürfnisse der Nutzenden im Mittelpunkt der Anwendung stehen.
 Value Sensitive und Activity based Design sind spezifizierte Designprinzipien des User centered Designs. Activity Based Design fokussiert sich dabei auf die Aktivitäten, Interaktionen und Aufgaben der Nutzer so wie des Kontextes, indem diese Stattfinden, während Value sensitive Design übergeordneten Werten und Prioritäten der Stakeholder für die Nutzung des Systems betont und ethischer und nachhaltiger Überlegungen in den Vordergrund stellt. Bei Value Sensitive Design werden Kernwerte identifiziert, die für die Gestaltung des Systems ausschlaggebend sind. Diese Werte können auch langfristige Faktoren wie Umwelt, Nachhaltigkeit und Ethik einschließen. Die identifizierten Werte werden für mögliche aufkommende Konflikte und nötige Kompromisse gewichtet und priorisiert.
 
-**Inhalte der Interationen**
+**Inhalte der Iterationen**
 > alle der betrachteten Designprinzipien legen einen Fokus auf eine Iteratives Design der Anwendung.
 > 
 > **Activity Centered:**
@@ -36,12 +38,12 @@ Value Sensitive und Activity based Design sind spezifizierte Designprinzipien de
 
 **Kontextsensitivität** 
 > 
-> **User Centered Design**
-> Der Nutzungskontext hat einen einen Einfluss auf das Design der Anwendung 
-> 
 > **Activity Centered:**
 > wie beim User Centered Design hat der Nutzungskontext eine Einfluss auf die Anwendung, jedoch liegt dabei ein größerer Fokus auf die Aktivitäten und in welchem Umfeld diese ausgeführt werden.
-> 
+>
+> **User Centered Design**
+> Der Nutzungskontext hat einen einen Einfluss auf das Design der Anwendung 
+>
 > **Value sensitive Design**
 > Die breiten Sozialen, Kulturellen und Umweltbezogenen Kontexte der Stakeholder der Anwendung werden betrachtet und einbezogen. Die übergeordneten Kontexte, in denen sich die Personen befinden, werden umfangreich untersucht.
 > 

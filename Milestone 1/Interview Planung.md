@@ -1,4 +1,5 @@
-#P1 #Dokumentation [[zu dokumentierende Aspekte für eine erstelltes Artefakt]]
+# Interview Planung
+#P1 #Dokumentation [[zu dokumentierende Aspekte für ein erstelltes Artefakt]]
 
 
 1. Was wird gemacht:
@@ -31,34 +32,28 @@
 	
 5. was sind die Ergebnisse
 
-Für die ergänzende Erarbeitung der Domänen Projekt und Teams wurden Interviews mit Personen aus unterschiedlichen Arbeitsverhältnissen und Umständen geführt. Die Personen wurden in Bezug zu ihren bisherigen Erfahrungen mit Projekten sowohl im Professionellen(Universität und Arbeit) als auch Privaten Kontext befragt. 
+Für die ergänzende Erarbeitung der Domänen *Projekt* und *Teams* wurden Interviews mit Personen aus unterschiedlichen Arbeitsverhältnissen und Umständen geführt. Die Personen wurden in Bezug zu ihren bisherigen Erfahrungen mit Projekten sowohl im professionellen (Universität und Arbeit) als auch privaten Kontext befragt. 
 Durch Interviews können die unterschiedlichen Perspektiven, Erfahrungen und (Experten-) Meinungen der Interviewpartner zu dem Arbeiten in Gruppen und dem Erstellen von und Arbeiten in Teams abgefragt werden.
 
-Bei den Interviews handelt es sich um Qualitative Leitfadeninterviews. Dazu wurde ein Fragenkatalog erstellt, an dem das Interview entlanggeführt wurde. Für diese Interview-art wurde sich entschieden, da die Interviewpartner dazu animiert werden ihre eigenen Erfahrungen, Werte und Erlebnisse auszuführen, gleichzeitig aber auch eine Richtung des Interviews vorgegeben werden kann. Dadurch, dass im Mittelpunkt des Interviews das Ziel des Erkenntnisgewinns innerhalb der Domäne *Teamprojekte* steht und eigene Biases umgangen werden sollen, eignet sich diese qualitative Forschungsmethode. 
+Bei den Interviews handelt es sich um Qualitative Leitfadeninterviews. Dazu wurde ein Fragenkatalog erstellt, an dem das Interview entlanggeführt wurde. Für diese Interview-Art wurde sich entschieden, da die Interviewpartner dazu animiert werden ihre eigenen Erfahrungen, Werte und Erlebnisse auszuführen, gleichzeitig aber auch eine Richtung des Interviews vorgegeben werden kann. Dadurch, dass im Mittelpunkt des Interviews das Ziel des Erkenntnisgewinns innerhalb der Domäne *Teamprojekte* steht und eigene Biases umgangen werden sollen, eignet sich diese qualitative Forschungsmethode. 
 Die Explorative Forschungsfrage des Interviews ist:
 >"was machen erfolgreiche Gruppen Projekte aus und wie finden sich diese?"
 
-Durch die Befragung von Personen in Unterschiedlichen Lebenswirklichkeiten wird erwartet, dass sich zwar einige der Antworten der Interviewpartner ähneln, aber auch neue Aspekte erfasst werden, die bei der vorherigen Untersuchung der Domäne möglicherweise übersehen wurde.
+Durch die Befragung von Personen in unterschiedlichen Lebenswirklichkeiten wird erwartet, dass sich zwar einige der Antworten der Interviewpartner ähneln, aber auch neue Aspekte erfasst werden, die bei der vorherigen Untersuchung der Domäne möglicherweise übersehen wurde.
 
- Die Länge der Interviews war auf etwa 30 Minuten angesetzt, je nach länger der Antworten variiert diese. Dadurch konnten unterschiedliche Aspekte aufgegriffen werden, ohne die Interviewpartner\*innen durch eine zu lange Interview Dauer zu belasten.
+ Die Länge der Interviews war auf etwa 30 Minuten angesetzt, je nach Länge der Antworten variiert diese. Dadurch konnten unterschiedliche Aspekte aufgegriffen werden, ohne die Interviewpartner\*innen durch eine zu lange Interview-Dauer zu belasten.
  
-Die Interviews fanden hauptsächlich Online Statt, einerseits um den Interviewpartnern die Anfahrt zu ersparen, andererseits aber auch um die Interviews leichter zu verarbeiten. Die Interviews wurde mit einer Aufzeichnungssoftware aufgenommen. Nach den Interviews wurden dieses Audiodateien exportiert und eine Transkription der Aufzeichnung wurde durch eine Software erstellt. Die Transkripte und die Audiodateien wurden mittels der Software MAXQDA Induktiv kodiert. Essentielle Textstellen wurden paraphrasiert und dann Sinneszusammenhängend zusammengefasst. 
+Die Interviews fanden hauptsächlich Online statt, einerseits um den Interviewpartnern die Anfahrt zu ersparen, andererseits aber auch um die Interviews leichter zu verarbeiten. Die Interviews wurde mit einer Aufzeichnungssoftware aufgenommen. Nach den Interviews wurden diese Audiodateien exportiert und eine Transkription der Aufzeichnung wurde durch eine Software erstellt. Die Transkripte und die Audiodateien wurden mittels der Software MAXQDA Induktiv kodiert. Essentielle Textstellen wurden paraphrasiert und dann Sinneszusammenhängend zusammengefasst. 
 Die Kernaussagen der Interviews und die Ableitungen dieser für das Projekt wurden in der Datei [Kernaussageninterviews](p1-vision-concept/Milestone 4/Kernaussageninterviews.md) zusammengefasst. 
 
 Bei jedem Interview wurde sich an dem folgenden Leitfaden orientiert. 
 \
-![[Interview Fragen P1.pdf]]
+![Interview Fragen](Interview%20Dokumente/Interview%20Fragen%20P1.pdf)
 
-Zu beginn der Interviews wurden die Interviewpartner\*innen über den Inhalt, Ablauf und Grund für das Interview aufgeklärt. Potentielle Fragen wurden geklärt und die Interviewpartner\*innen erhielten Informationen über die Verwendung der erhobenen Daten. Die Interviewpartner wurden außerdem dazu angehalten eine Einverständniserklärung zu Unterschreiben, um ihr Bewusstsein bezüglich der erhobenen Daten zu bestätigen.
-
-
-![[Einwilligungserklärung Interview Vorlage.pdf]]
+Zu Beginn der Interviews wurden die Interviewpartner\*innen über den Inhalt, Ablauf und Grund für das Interview aufgeklärt. Potentielle Fragen wurden geklärt und die Interviewpartner\*innen erhielten Informationen über die Verwendung der erhobenen Daten. Die Interviewpartner\*innen wurden außerdem dazu angehalten eine Einverständniserklärung zu unterschreiben, um ihr Bewusstsein bezüglich der erhobenen Daten zu bestätigen.
 
 
-Ein Interview wurde von 2 Interviewer\*innen mit den Interviewpartner\*innen geführt. Dabei leitete eine Person das Interview anhand des Leitfadens, während die andere zusätzliche Elaborationen und Vertiefungen potenziell relevanter und neuer Themengebiete bei dem Interviewpartner durch Nachfragen anregte. Die Interviewpartner wurden dazu angehalten die Fragen möglichst Umfassend und Ausschweifend zu beantworten, um potentiell relevante und neue Aspekte zu erfassen, die bei vorherigen Untersuchungen bislang nicht erkannt wurden. Themen, die durch den Kontext des Interviews überflüssig wären, wurden übergangen. 
+![Einwilligungserklärung Interview Vorlage](Interview%20Dokumente/Einwilligungserklärung%20Interview%20Vorlage.pdf)
 
 
-
-
-
-
+Ein Interview wurde von 2 Interviewer\*innen mit dem\*der jeweiligen Interviewpartner\*in geführt. Dabei leitete eine Person das Interview anhand des Leitfadens, während die andere zusätzliche Elaborationen und Vertiefungen potenziell relevanter und neuer Themengebiete bei dem Interviewpartner durch Nachfragen anregte. Die Interviewpartner wurden dazu angehalten die Fragen möglichst umfassend und ausschweifend zu beantworten, um potentiell relevante und neue Aspekte zu erfassen, die bei vorherigen Untersuchungen bislang nicht erkannt wurden. Themen, die durch den Kontext des Interviews überflüssig wären, wurden übergangen. 
