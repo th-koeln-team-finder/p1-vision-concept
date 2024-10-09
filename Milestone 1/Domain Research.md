@@ -8,13 +8,13 @@ Diese Ergebnisse wurden zur besseren Darstellung und Sortierung in einer Mindmap
 
 Darüber hinaus haben die beiden Teams im Rahmen des Moduls "Advanced Seminar" Paper und Poster zu dieser Recherche erstellt. Diese sind hier jeweils aufgeführt:
 ### Effektive Teams
-![Effektive Teams Paper](A_PatrickLang-LeanderGerwing-LiobaBrandhoff_Effektive%20Teamarbeit.pdf)
+[Effektive Teams Paper](A_PatrickLang-LeanderGerwing-LiobaBrandhoff_Effektive%20Teamarbeit.pdf)
 
-![Effektive Teams Poster](Poster-Abstract_Effektive-Teams.pdf)
+[Effektive Teams Poster](Poster-Abstract_Effektive-Teams.pdf)
 
 ### Teambuilding
-![Teambuilding Paper](A_CristianPankiv-JoshuaGawenda_Team%20Building%20--%20Effektiv.pdf)
+[Teambuilding Paper](A_CristianPankiv-JoshuaGawenda_Team%20Building%20--%20Effektiv.pdf)
 
-//tbd ![Teambuilding Poster]()
+//tbd [Teambuilding Poster]()
 
 Die Literaturrecherche diente dazu, ein besseres Verständnis für die Domäne zu erlangen und die Grundlage für die Erstellung von Personas und Interviewfragen zu schaffen.

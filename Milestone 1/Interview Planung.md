@@ -48,12 +48,12 @@ Die Kernaussagen der Interviews und die Ableitungen dieser für das Projekt wurd
 
 Bei jedem Interview wurde sich an dem folgenden Leitfaden orientiert. 
 \
-![Interview Fragen](Interview%20Dokumente/Interview%20Fragen%20P1.pdf)
+[Interview Fragen](Interview%20Dokumente/Interview%20Fragen%20P1.pdf)
 
 Zu Beginn der Interviews wurden die Interviewpartner\*innen über den Inhalt, Ablauf und Grund für das Interview aufgeklärt. Potentielle Fragen wurden geklärt und die Interviewpartner\*innen erhielten Informationen über die Verwendung der erhobenen Daten. Die Interviewpartner\*innen wurden außerdem dazu angehalten eine Einverständniserklärung zu unterschreiben, um ihr Bewusstsein bezüglich der erhobenen Daten zu bestätigen.
 
 
-![Einwilligungserklärung Interview Vorlage](Interview%20Dokumente/Einwilligungserklärung%20Interview%20Vorlage.pdf)
+[Einwilligungserklärung Interview Vorlage](Interview%20Dokumente/Einwilligungserklärung%20Interview%20Vorlage.pdf)
 
 
 Ein Interview wurde von 2 Interviewer\*innen mit dem\*der jeweiligen Interviewpartner\*in geführt. Dabei leitete eine Person das Interview anhand des Leitfadens, während die andere zusätzliche Elaborationen und Vertiefungen potenziell relevanter und neuer Themengebiete bei dem Interviewpartner durch Nachfragen anregte. Die Interviewpartner wurden dazu angehalten die Fragen möglichst umfassend und ausschweifend zu beantworten, um potentiell relevante und neue Aspekte zu erfassen, die bei vorherigen Untersuchungen bislang nicht erkannt wurden. Themen, die durch den Kontext des Interviews überflüssig wären, wurden übergangen. 
