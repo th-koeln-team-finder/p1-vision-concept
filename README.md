@@ -29,6 +29,6 @@ Projekt Phase 1 für die Konzeption und Vision
 
 ## Milestone 5
 
-- Poster
-- Interactive Dummy
+- [Poster](Milestone%205/Poster.md)
+- [Interactive Dummy](Milestone%205/InteractiveDummy.md)
 - Ausarbeitung der Artefakte
