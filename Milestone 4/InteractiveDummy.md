@@ -1,5 +1,3 @@
 # Interactive Dummy
 
 Als Weiterführung der [Wireframes](../Milestone%203/Wireframes.md) haben wir echte Designs mit Hilfe des [Design Systems](./designsystem.md) eintwickelt. Diese Stellen die unterschiedlichen Ansichten der App dar. Durch Figma war es auch möglich eine Interaktive Navigation zwischen den Screen einzubauen, das kann man über [diesen Link](https://www.figma.com/proto/q6cW6M65LaT5wvVdATfilA/Project-Design?page-id=52%3A3349&node-id=90-1754&node-type=canvas&viewport=-276%2C-224%2C0.83&t=AMzO2f9ZvLJdDASQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=90%3A1754) einsehen und ausprobieren.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q6cW6M65LaT5wvVdATfilA/Project-Design?page-id=52%3A3349&node-id=90-1754&node-type=canvas&viewport=-276%2C-224%2C0.83&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=90%3A1754&embed-host=share" allowfullscreen></iframe>
