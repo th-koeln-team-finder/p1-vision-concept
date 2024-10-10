@@ -1,5 +1,8 @@
-# p1-vision-concept
-Projekt Phase 1 für die Konzeption und Vision
+# Collaborize (Vision und Konzept)
+
+![banner](github-banner.svg)
+
+Projekt Phase 1 für die Konzeption und Vision von der Teamfinding Plattform "Collaborize"
 
 ## Milestone 1
 
@@ -31,4 +34,3 @@ Projekt Phase 1 für die Konzeption und Vision
 
 - [Poster](Milestone%205/Poster.md)
 - [Interactive Dummy](Milestone%205/InteractiveDummy.md)
-- Ausarbeitung der Artefakte
