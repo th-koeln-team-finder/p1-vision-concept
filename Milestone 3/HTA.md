@@ -14,7 +14,6 @@ Zunächst wurden die Überaufgaben identifiziert, die ein Benutzer durchführt, 
 wurden dann in einer Hierarchie dargestellt, um die Abhängigkeiten und Beziehungen zwischen den einzelnen Schritten zu
 visualisieren.
 
-[Die einzelnen Tasks aus der HTA befindet sich hier](HTA/README.md)
+[Die einzelnen Tasks aus der HTA befinden sich hier](HTA/README.md)
 
-Die HTA half uns dabei, die Anforderungen an das System besser zu verstehen und zu definieren. Sie half uns auch dabei, die Abläufe von Systeminteraktionen abstrakt zu modellieren und zu visualisieren.
-Dies half uns dabei, die Nutzerinteraktionen mithilfe von Wireframes zu konkretisieren.
+Die HTA unterstützte uns maßgeblich dabei, die Systemanforderungen klarer zu erfassen und präzise zu definieren. Darüber hinaus ermöglichte sie es, die Abläufe der Systeminteraktionen abstrakt zu modellieren und visuell darzustellen. Diese Modelle bildeten die Grundlage, um die Nutzerinteraktionen durch Wireframes weiter zu konkretisieren.
