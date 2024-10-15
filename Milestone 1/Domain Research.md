@@ -1,7 +1,7 @@
 # Literaturrecherche
 
 Ziel war die Erkundung der Domäne "Projektteams". Dafür haben wir uns in zwei kleinere Teams aufgeteilt. Das eine Team hatte sich mit der Frage beschäftigt, was effektive Teams sind (bzw. wodurch sie effektiv werden) und das andere Team mit der Frage wie sich Teams bilden.  
-Diese beiden Reams haben dann individuelle Recherche betrieben und die Ergebnisse in einem gemeinsamen Dokument zusammengefasst.  
+Diese beiden Teams haben dann individuelle Recherche betrieben und die Ergebnisse in einem gemeinsamen Dokument zusammengefasst.  
 Diese Ergebnisse wurden zur besseren Darstellung und Sortierung in einer Mindmap visualisiert.
 
 ![img.png](domain%20research.png)
