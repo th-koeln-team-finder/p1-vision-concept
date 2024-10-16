@@ -17,7 +17,7 @@ Die durchgeführten Interviews wurden im Folgenden pro Interviewpartner ausgewer
 - Kommunikation ist (vermutlich) die wichtigste Fähigkeit im Team. "wenn ihr ... nicht kommunizieren (könnt), dann (braucht ihr) nicht zusammenzuarbeiten "
 - Erwartungen an ein Projekt in einem Arbeitsumfeld kommen von den Auftraggebern und den Vorgesetzten. Eine Erwartung ist, ist dass man die Verantwortung für die eigene Arbeit trägt.
 - Besonders vorteilhaft ist es wenn man ein Projekt von vorne aufrollt, da man daraus viel Mehrwert schöpfen kann.
-- Es ist schwierig das können anderer Personen von Anfang an einzuschätzen und somit passende  Projekte zu finden.
+- Es ist schwierig das Können anderer Personen von Anfang an einzuschätzen und somit passende  Projekte zu finden.
 - Eine Skill-datenbank ist eine Möglichkeit das können der Mitarbeiter einzusehen. Die Personen können dort dann ihre eigenen Fähigkeiten und Interessen eintragen. Im Arbeitskontext ist ein Kontrolle dieser Daten nicht zwingend notwendig. Ehrlichkeit und Transparenz sind dabei aber dann zwingend erforderlich. Ein Staffing über mehrere Stellen mit weniger direktem Kontakt ist sonst schwierig.
 - Ein Mentor in einem neuen Bereich beschleunigt das lernen. Man lernt best Practices und hat eine bessere Grundlage
 
