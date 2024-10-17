@@ -125,7 +125,7 @@ Die durchgeführten Interviews wurden im Folgenden pro Interviewpartner ausgewer
 
 ---
 
-## Fazit
+## Kernaspekte
 - Teamklima muss nicht mit Erfolg korrelieren
 - Allgemein kein Portal bekannt um neue Teammitglieder zu finden, es gibt jedoch einzelne Fachcommunities (Fachmessen oder Instagram-Communities)
 
@@ -138,3 +138,14 @@ Die durchgeführten Interviews wurden im Folgenden pro Interviewpartner ausgewer
         - Im kommerziellen Bereich ist Erfolg relevanter als zwischenmenschliches
     - Ähnlichkeit der Teammitglieder: Persönlichkeit und Arbeitsweise
     - Projektleitung vs. Self-Management
+ 
+## Fazit
+ 
+Aus den Interviews lassen sich mehrere Ergebnisse zusammentragen, die bei der Gestaltung der Anwendungsfunktionen diskutiert und berücksichtigt werden könnten. Bei den Interviews gaben einige der Interviewpartner an, dass die Ziele für Projekte vorher festgelegt und klar mit allen Mitgliedern der Teams kommuniziert werden sollten. Dabei können persönliche Ziele sowie Projektziele voneinander unterschieden werden. Teammitglieder könnten so etwa ein Interesse daran haben, neue Fähigkeiten zu erlernen oder zu verbessern, während andere Mitglieder eher ein effizientes Arbeiten im Team bevorzugen. Die Kommunikation und Festlegung dieser Ziele und Prioritäten können entscheidend sein; sowohl bei der Findung eines passenden Teams, als auch bei der Verfolgung eines Projektziels. Gleichzeitig sollten sich die Teammitglieder im Klaren sein, dass sich die gesetzten Projektziele und Prioritäten im Laufe eines Projektes nach neuen Erkenntnissen verändern und verschieben können. 
+Im System könnte daher ein Fokus darauf gelegt werden, dass die Personen und Projektersteller für andere Personen ausführliche Informationen über die Ziele und Prioritäten von Projekt und von Projektteilnehmer darstellen können - besonders wegen der unterschiedlichen Strukturen und arten der Projekte und dementsprechenden notwendigen Rollen.
+
+In den Interviews wurde auch mehrmals erwähnt, dass es bei neuen Teams schwierig sei, die Fähigkeiten und Arbeitsweisen der Teammitglieder einzuschätzen. Eine Darlegung eigener Fähigkeiten im Sinne einer "Skill-datenbank" könnten dabei helfen, die Fähigkeiten und Spezialisierungen von Personen einzuschätzen. Eine offene Kommunikation über die Stärken und Schwächen der Personen könnte auch bei der Performance des Teams helfen. Manche der Interviewpartner gaben auch an, lieber in eingespielten Teams aus Freunden und Bekannten zu arbeiten, als komplett neue Teams zu bilden. Dies hätte den Vorteil, dass es keine Eingewöhnungszeit zu Beginn des Projektes benötigt und die Fähigkeiten, Probleme, Arbeitsweisen und auch die Persönlichkeit der Teammitglieder bekannt ist. Bei neuen Teams bestünde die Problematik, dass jede unbekannte Person auch neue unbekannte Variablen in das Projekt mit sich bringe. Teambuilding-Maßnahmen zu Beginn eines Projektes könnten helfen, die Mitglieder untereinander vertraut werden zu lassen.
+Ein Schluss dieser Aspekte für das System könnte sein, dass bei der Wahl von Projekten und Mitgliedern bspw. bereits bekannte Personen hervorgehoben oder etwa eher vorgeschlagen werden.
+
+Ein Vorschlag aus einem Interview für ein System Feature richtet sich konkret an die zu entwerfende Software. Dabei war der Vorschlag, dass Personen ehemalige Teammitglieder auf ihren Profilen bewerten können sollten. 
+Eine ähnliche Idee ist bereits vorgesehen und könnte für das System entwickelt werden. Die Personen sollen dabei nicht das Profil der Teammitglieder bewerten, sondern deren auf dem Profil angegebenen Leistungen bestätigen können. Dies sollte die Möglichkeit für Mobbing oder ähnliche negative Interaktionen vermeiden, gleichzeitig anderen Personen Informationen über die Fähigkeiten der Personen vermittelten können.
